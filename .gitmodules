@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "QRIpkg"]
 	path = QRIpkg
 	url = https://github.com/cran/QRIpkg
-	shallow = true
-	registered = true
 [submodule "RVIpkg"]
 	path = RVIpkg
 	url = https://github.com/cran/RVIpkg
-	shallow = true
-	registered = true
