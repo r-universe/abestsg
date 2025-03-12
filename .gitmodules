@@ -5,6 +5,3 @@
 [submodule "QRIpkg"]
 	path = QRIpkg
 	url = https://github.com/cran/QRIpkg
-[submodule "RVIpkg"]
-	path = RVIpkg
-	url = https://github.com/cran/RVIpkg
